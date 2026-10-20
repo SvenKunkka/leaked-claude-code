@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # Claude Code - Source Code (Publicly Exposed via npm)
 
 > **LEGAL DISCLAIMER:** This repository is provided strictly for **educational, research, and security analysis purposes** under the principles of **fair use** and **public interest**. See [Legal Notice](#legal-notice) below.
@@ -232,3 +236,32 @@ This repository does not claim any ownership or license over the code. It is sha
 **If you are Anthropic or represent Anthropic:** Please see the [DMCA / Takedown](#dmca--takedown) section above. This repository will promptly comply with valid takedown requests.
 
 **If you are a user of this code:** Do not use this code for commercial purposes, to build competing products, or in any way that infringes on Anthropic's intellectual property rights. This code is for reading, learning, and research only.
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+[Heipiao/leaked-claude-code](https://github.com/Heipiao/leaked-claude-code) 的 Fork，用于阅读与研究其归档的 Claude Code 客户端源码。原 README 按会话编排、终端界面、工具、权限和插件等模块提供架构索引。
+
+**使用入口：** 从原文 Architecture Overview 与 Key Entry Points 开始，查阅 `main.tsx`、`QueryEngine.ts`、`coordinator/` 等代码入口；本说明不提供安装或产品部署流程。
+
+**范围说明：** 原 README 明确指出代码并非主动开源，权利归 Anthropic。原文的来源及合理使用论述是仓库作者声明，不是本仓库维护者的法律结论或使用许可。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A fork of [Heipiao/leaked-claude-code](https://github.com/Heipiao/leaked-claude-code) for reading and researching its archived Claude Code client source. The original README indexes orchestration, terminal UI, tools, permissions, and plugins.
+
+**Getting started:** Start with Architecture Overview and Key Entry Points, then inspect entries such as `main.tsx`, `QueryEngine.ts`, and `coordinator/`. This summary provides no installation or product-deployment workflow.
+
+**Scope:** The original README states that the code was not intentionally open-sourced and that Anthropic retains the rights. Its provenance and fair-use arguments are author statements, not a legal conclusion or usage license from this fork’s maintainer.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [Heipiao/leaked-claude-code](https://github.com/Heipiao/leaked-claude-code)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
